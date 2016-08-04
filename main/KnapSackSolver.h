@@ -1,8 +1,8 @@
 /*
  * KnapSackSolver.h
  *
- *  Created on: Jun 13, 2015
- *      Author: viktor
+ *  Created on: Aug 04, 2016
+ *      Author: Sriharsha
  */
 
 #ifndef MAIN_KNAPSACKSOLVER_H_

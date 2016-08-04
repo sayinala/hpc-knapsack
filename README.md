@@ -1,8 +1,5 @@
 
-This is the result of the project in the course *High Performance Computing* at the University of Applied Sciences Kaiserslautern in the semester SS2015 . The aim of the project was to implement an algorithm that solves the knapsack problem and improve this algorithm to a faster and parallelized version. The project was performed by
-
-* Kevin Keßler (keke0002@stud.hs-kl.de) and
-* Viktor Maier (vima0001@stud.hs-kl.de).
+The aim of the project was to implement an algorithm that solves the knapsack problem and improve this algorithm to a faster and parallelized version. 
 
 <br/>
 <br/>
